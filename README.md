@@ -1,4 +1,9 @@
 # Github Actions 🌈🏆💯
 
 Implementation of CI/CD with Github Actions. 👀
-big markdown changes
+
+## Recent changes ⌛
+
+test_pull_request ✅✅✅
+
+added fix to minimist in package.json-lock 🔑
