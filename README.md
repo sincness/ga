@@ -2,7 +2,7 @@
 
 Implementation of CI/CD with Github Actions. 👀
 
-#### Recent changes
+## Recent changes ℹ️
 
 *integrate.yml*  test_pull_request ✔️✔️✔️
 
