@@ -1,12 +1,12 @@
 name: Continuous Integration
 
 on:
-  push_request:
+  push:
     branches: [ master ]
 
 
 jobs:
-  test_push_request:
+  test_push:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
